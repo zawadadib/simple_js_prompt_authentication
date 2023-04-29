@@ -1,1 +1,1 @@
-# simple_js_prompt_authentication
+# Simple Prompt Authentication In Javascript
