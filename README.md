@@ -1,0 +1,1 @@
+# simple_js_prompt_authentication
